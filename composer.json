@@ -1,0 +1,20 @@
+{
+    "name": "worlddirect/gridmaker",
+    "description": "This app generates SVG images displaying grids. In particular for using it with Gridelements in TYPO3.",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4",
+        "meyfa/php-svg": "^0",
+        "components/jquery": "^3.3.1"
+    },
+    "authors": [
+        {
+            "name": "Klaus Hörmann-Engl",
+            "email": "klaus.hoermann-engl@world-direct.at"
+        },
+        {
+            "name": "Dominik Kuen",
+            "email": "dominik.kuen@world-direct.at"
+        }
+    ]
+}
